@@ -4,7 +4,7 @@
 
 The new features of gta_muni are spectacular! Jobs are now fetched directly from the database, and if they're whitelisted, they won't be displayed. It also retrieves player information, which will bring incredible consistency to your server.
 --
-New Features:
+✨ New Features:
 
 - Discord logs
 
